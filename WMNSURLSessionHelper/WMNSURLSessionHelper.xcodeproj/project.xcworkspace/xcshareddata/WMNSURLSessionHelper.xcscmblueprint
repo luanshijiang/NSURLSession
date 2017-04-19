@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "703F24397E95C495FF4F1C4064728CB18537DE42",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "703F24397E95C495FF4F1C4064728CB18537DE42" : 0,
+    "37F36151A4E21BBA6124E2F91B94E87032B924D8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "442B973F-8C8D-46CF-AEB5-E0EFAB6BA2CC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "703F24397E95C495FF4F1C4064728CB18537DE42" : "WMNSURLSessionHelper\/",
+    "37F36151A4E21BBA6124E2F91B94E87032B924D8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WMNSURLSessionHelper",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WMNSURLSessionHelper.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/onebutterflyW\/NSURLSession.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37F36151A4E21BBA6124E2F91B94E87032B924D8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/onebutterflyW\/https:\/\/github.com\/onebutterflyW\/NSURLSession",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "703F24397E95C495FF4F1C4064728CB18537DE42"
+    }
+  ]
+}
